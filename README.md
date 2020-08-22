@@ -15,7 +15,7 @@ A sample data CSV can be found with the source code.
 
 Notes:
 - If you are planning to use GMail with this project for sensor data communication then you have to create a machine/app password in order for this application (or any IoT device) to access the email. 
-- Don't use pin 12 of the NodeMCU32S with any 1-Wire sensors where a pull-up resistor is installed, as it's used during boot-up procees and uploading the program to the ESP32 EEPROM will fail because of this pull-up resistor. 
+- Don't use pin 12 of the NodeMCU32S with any 1-Wire data pin where a pull-up resistor is installed, as it's used during boot-up procees and uploading the program to the ESP32 EEPROM will fail because of this pull-up resistor. 
 
 **License:**
 No warranty, no liability, no guarantees on using this project (code and hardware). Use it at your own risk.
