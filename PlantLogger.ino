@@ -25,8 +25,8 @@
  */
  
 //WiFi Network information
-const char* ssid = "SSID";
-const char* password = "PASSWORD";
+const char* ssid = "SSID-NETWORK-NAME";
+const char* password = "NETWORK-PASSWORD";
 
 int i = 0;
 char tmp[24];
