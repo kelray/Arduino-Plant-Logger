@@ -6,7 +6,7 @@ This is a plant monitor using NodeMCU-32S board (based on ESP32 microcontroller)
 The monitor collects the data from all sensors in a time-stamped CSV file saved to an on-board 1GB Micro SD card. The file is emailed to user-defined email every 300 seconds (5 minutes). This interval can be changed, please refer to the code. 
 A sample data CSV can be found with the source code. 
 
-**Plant-Logger Picture:**
+**Plant-Logger Hardware:**
 ![Plantlogger_labeled](https://user-images.githubusercontent.com/8460504/90962339-19dd0880-e464-11ea-91fe-0c3be8fc0a62.png)
 
 **Circuito IO Schematic:**
