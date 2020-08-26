@@ -1,4 +1,4 @@
-# Arduino-Plant-Logger
+# Arduino Plant Logger/Monitor
 This is a plant monitor using NodeMCU-32S board (based on ESP32 microcontroller). It incorporate three sensors to capture four readings from the ambient environment of the plant:
 - Ambient Temperature & humidity (using DHT11 sensor)
 - Soil temperature (using DS18B20 sensor).
